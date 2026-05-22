@@ -95,9 +95,3 @@ Once the Webots simulation is running and the TCP/IP server is ready, execute th
 - Ensure no firewall blocks TCP/IP localhost communication.
 - Verify the Webots simulation is running before starting the client.
 - Rebuild any modified C code with `make` before running.
-
----
-
-## License
-
-(Include your license here
